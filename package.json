@@ -1,0 +1,16 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -w ./scss/style.scss ./css/style.min.css --output-style compressed"
+  },
+  "author": "vasyl",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
